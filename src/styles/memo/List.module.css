@@ -1,0 +1,35 @@
+.memoListContainer {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contentsContainer {
+  width: 100%;
+  max-width: 768px;
+}
+
+.titleText {
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  white-space: pre-line;
+}
+
+.actionContainer {
+  display: flex;
+  column-gap: 4px;
+}
+
+.backButton {
+  background-color: grey;
+}
+
+.emptyText {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}

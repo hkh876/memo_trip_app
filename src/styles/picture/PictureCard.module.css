@@ -1,0 +1,17 @@
+.cardContainer + .cardContainer {
+  margin-top: 20px;
+}
+
+.cardContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture {
+  max-width: fit-content;
+}
+
+.deleteButton {
+  margin-left: auto;
+}

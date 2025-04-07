@@ -1,0 +1,37 @@
+.pictureListContainer {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contentsContainer {
+  width: 100%;
+  max-width: 768px;
+}
+
+.uploadContainer {
+  margin-bottom: 16px;
+}
+
+.fileInput {
+  margin-bottom: 8px;
+}
+
+.actionContainer {
+  display: flex;
+  align-items: center;
+}
+
+.backButton {
+  margin-left: 8px;
+  background-color: grey;
+}
+
+.countText {
+  margin-left: auto;
+}
+
+.emptyText {
+  text-align: center;
+}

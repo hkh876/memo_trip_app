@@ -1,0 +1,4 @@
+export enum ErrorCode {
+  ERR_NETWORK = "ERR_NETWORK",
+  UPLOAD_SIZE_ERROR = "UPLOAD_SIZE_ERROR",
+}
